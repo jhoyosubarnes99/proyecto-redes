@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-redes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "description": "API REST",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaronteJH/proyecto-redes.git"
+  },
+  "author": "José Antonio Hoyos, Ariana Rodríguez, Jorge Sierra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaronteJH/proyecto-redes/issues"
+  },
+  "homepage": "https://github.com/CaronteJH/proyecto-redes#readme"
+}
